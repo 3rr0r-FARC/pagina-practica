@@ -1,2 +1,2 @@
 # pagina practica
- toma pyna lo que hice en mi practica
+ paguina realizada en mi primera practica
